@@ -58,5 +58,5 @@ In order to be able to use the file system you will need to prepare the runtime 
 Ensure you are back in the wasm-computation-layer directory.
 ```
 cd example
-node ./emscripten-module-wrapper/prepare.js simple.js --file input.data --file output.data
+node ../emscripten-module-wrapper/prepare.js simple.js --file input.data --file output.data
 ```
