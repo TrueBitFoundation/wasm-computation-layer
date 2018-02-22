@@ -1,0 +1,6 @@
+[submodule "ocaml-offchain"]
+	path = ocaml-offchain
+	url = git@github.com:TrueBitFoundation/ocaml-offchain.git
+[submodule "emscripten-module-wrapper"]
+	path = emscripten-module-wrapper
+	url = git@github.com:TrueBitFoundation/emscripten-module-wrapper.git
